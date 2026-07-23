@@ -1,5 +1,5 @@
-<!-- ===================== TERMINAL HEADER ===================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=800&height=180&lines=%24+whoami;%3E+Chetan+Chirag+KH+%E2%80%94+Data+Engineer;%24+cat+mission.txt;%3E+Building+data+systems+people+can+actually+trust;%24+python+run_pipeline.py;%3E+extract()+-%3E+transform()+-%3E+validate()+-%3E+load()+%E2%9C%94" alt="terminal typing" /> </p> <!-- ===================== SNAKE ANIMATION ===================== --> <p align="center"> <img src="https://raw.githubusercontent.com/ChetanChirag24/ChetanChirag24/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" /> </p>
-Tech Stack
+<!-- ===================== TERMINAL HEADER (left-aligned, terminal-sized) ===================== --> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00FF9C&background=0D1117&left=true&vCenter=true&multiline=true&width=800&height=200&lines=chetan%40datastack%3A~%24+whoami;Chetan+Chirag+KH+%E2%80%94+Data+Engineer;chetan%40datastack%3A~%24+cat+mission.txt;Building+data+systems+people+can+actually+trust;chetan%40datastack%3A~%24+python+run_pipeline.py;extract()+-%3E+transform()+-%3E+validate()+-%3E+load()+%E2%9C%94" alt="terminal typing" /> <h3>Data Engineer — building data systems people can actually trust</h3> <p>Reliable pipelines · governed data models · analytics that hold up under scrutiny</p>
+🛠️ Tech Stack
 
 Languages & Query
 
@@ -16,14 +16,19 @@ Cloud & BI
 AI & Agentic Tooling
 
 <p> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/LLM_Tool_Calling-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-5A67D8?style=flat&logo=databricks&logoColor=white" /> </p>
-Featured Projects
-SQL Differential Testing — catches silently-wrong AI-generated SQL by cross-checking each answer against a structurally independent query.
-Content Recommendation Engine — real-time recommender (0.79 AUC, <50ms latency) on 45M+ interactions, served via ONNX Runtime.
-WorkforceIQ — HR workforce-planning analytics on a Snowflake / dbt / Airflow / Tableau stack.
-Revenue Growth Analytics — revenue growth & conversion analytics dashboard.
-Video Streaming QoE Analysis — quality-of-experience analysis for video streaming performance.
-California Wildfire Analysis — data analysis on California wildfire patterns.
-GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChetanChirag24&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" /> &nbsp; <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanChirag24&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" /> </p>
-Connect
+🚀 Featured Projects
+
+SQL Differential Testing Catches silently-wrong AI-generated SQL by cross-checking each answer against a structurally independent query.
+
+Content Recommendation Engine Real-time recommender (0.79 AUC, <50ms latency) on 45M+ interactions, served via ONNX Runtime.
+
+WorkforceIQ HR workforce-planning analytics on a Snowflake / dbt / Airflow / Tableau stack.
+
+Revenue Growth Analytics Revenue growth & conversion analytics dashboard.
+
+Video Streaming QoE Analysis Quality-of-experience analysis for video streaming performance.
+
+California Wildfire Analysis Data analysis on California wildfire patterns.
+
+📫 Connect
 <p> <a href="https://www.linkedin.com/in/chetanchiragkh-5a6145176"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://chetanchirag-portfolio.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-38BDAE?style=flat&logo=firefox&logoColor=white" /> </a> <a href="mailto:chetanchirag24@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /> </a> </p>
