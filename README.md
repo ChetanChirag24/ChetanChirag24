@@ -65,6 +65,12 @@
 
 ## 🚀 Featured Projects
 
+**Rift · PR-Native Data Diff** &nbsp; <img src="https://img.shields.io/badge/status-upcoming-F2C811?style=flat" />
+Open a pull request and Rift shows exactly which rows and columns changed between two versions of a dataset on DuckDB, before you merge. A pip-installable Python tool built to fill the gap left by Datafold's archived open-source data-diff.
+<br />
+<img src="https://img.shields.io/badge/%F0%9F%8E%A5_Demo-coming_soon-lightgrey?style=flat" />
+<img src="https://img.shields.io/badge/%F0%9F%93%96_Intro-coming_soon-lightgrey?style=flat" />
+
 **SQL Differential Testing**
 Catches silently-wrong AI-generated SQL by cross-checking each answer against a structurally independent query.
 
@@ -86,7 +92,7 @@ Data analysis on California wildfire patterns.
 ## 📫 Connect
 
 <p>
-  <a href="">
+  <a href="https://www.linkedin.com/in/chetanchiragkh-5a6145176">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://chetanchirag-portfolio.netlify.app">
