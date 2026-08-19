@@ -86,7 +86,7 @@ Data analysis on California wildfire patterns.
 ## 📫 Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/chetanchiragkh-5a6145176">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://chetanchirag-portfolio.netlify.app">
